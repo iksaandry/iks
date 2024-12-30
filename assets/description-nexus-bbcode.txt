@@ -1,0 +1,90 @@
+
+Mod to unlock all slotables at traders for Anno 1800
+
+[url=https://iksaandry.github.io/iks/assets/images/cover/all_items_unlocked_at_traders_mod_opt.jpg][img]https://iksaandry.github.io/iks/assets/images/cover/all_items_unlocked_at_traders_mod_opt.jpg[/img][/url]
+[url=https://www.patreon.com/iksaandry][size=5]
+[/size][/url]
+[color=#f1c232][size=4]INSTALLING AND USING THE MOD:[/size][/color]
+
+[youtube]FCQQAEi0czw[/youtube]
+
+[b][size=6][color=#ff0000]UPDATE:[/color] THE MOD NO LONGER REQUIRES THE MOD LOADER SINCE IT NOW SUPPORTS MODS NATIVELY.[/size]
+[/b]
+
+[color=#f1c232][size=4]Traders and categories of goods list:[/size][/color]
+
+[url=https://iksaandry.github.io/iks/assets/images/traders/Sir_Archibald_Blake_.png][img]https://iksaandry.github.io/iks/assets/images/traders/Sir_Archibald_Blake_.png[/img][/url]
+Sir Archbald Blake [i](High Clarence Hall)[/i] - Old World (Total: 210 items)
+
+[code]- Equipables for military ships (56 items)
+- sailing ships (3 items) 
+- ships (62 items) 
+- steamships (9 items)
+- Old World's Treasure Maps (9 items) 
+- Habourmaster's Office (71 items)
+[/code][url=https://iksaandry.github.io/iks/assets/images/traders/Eli_Bleakworth_.png]
+
+[img]https://iksaandry.github.io/iks/assets/images/traders/Eli_Bleakworth_.png[/img][/url]
+Eli Bleakworth [i](Wormways Prision)[/i] - Old World (Total: 541 items)
+
+[code]- Equipables for Trade Union (323 items) 
+- Town Hall (218 items)
+[/code][url=https://iksaandry.github.io/iks/assets/images/traders/Madame_Kahina.png]
+
+[img]https://iksaandry.github.io/iks/assets/images/traders/Madame_Kahina.png[/img][/url]
+Madame Kahina [i](Emporium Exotique)[/i] - Old World (Total: 269 items)
+
+[code]- Ornaments (11 items) 
+- Music Sheets (5 items)
+- Museum sets (60 items) 
+[/code][url=https://iksaandry.github.io/iks/assets/images/sets/anno_1800_museum_complete_basegame.jpg][img]https://iksaandry.github.io/iks/assets/images/sets/anno_1800_museum_complete_basegame.jpg[/img][/url] [url=https://iksaandry.github.io/iks/assets/images/sets/anno_1800_museum_complete_DLC.jpg][img]https://iksaandry.github.io/iks/assets/images/sets/anno_1800_museum_complete_DLC.jpg[/img][/url]
+[code]- Zoo Sets (60 items) [/code][url=https://iksaandry.github.io/iks/assets/images/sets/anno_1800_zoo_complete_basegame.jpg][img]https://iksaandry.github.io/iks/assets/images/sets/anno_1800_zoo_complete_basegame.jpg[/img][/url] [url=https://iksaandry.github.io/iks/assets/images/sets/anno_1800_zoo_complete_DLC.jpg][img]https://iksaandry.github.io/iks/assets/images/sets/anno_1800_zoo_complete_DLC.jpg[/img][/url]
+[code]- Botanical Garden Sets (51 items)[/code][url=https://iksaandry.github.io/iks/assets/images/sets/botanical_garden.PNG][img]https://iksaandry.github.io/iks/assets/images/sets/botanical_garden.PNG[/img][/url]
+[code]- Trade union + Town Hall + Harbourmaster's office Attractiveness slotables (82 items)[/code][url=https://iksaandry.github.io/iks/assets/images/traders/Anne_Harlow.png]
+
+[img]https://iksaandry.github.io/iks/assets/images/traders/Anne_Harlow.png[/img][/url]
+Anne Harlow [i](Calamity Cove)[/i] - Old World (Total: 63 items)
+
+[code]- Legendaries for Ships and Harbourmaster's Office (48 items)
+- Legendary Treasure Maps (15 items)
+[/code][url=https://iksaandry.github.io/iks/assets/images/traders/Isabel_Sarmento.png]
+
+[img]https://iksaandry.github.io/iks/assets/images/traders/Isabel_Sarmento.png[/img][/url]
+Isabel Sarmento [i](El Puerto)[/i] - New World (Total: 124 items)
+
+[code]- Museum non set Artifacts (55 items)
+- Botanical Garden non set Plants (17 items) 
+- Zoo non set Animals (43 items) & New World's Treasure Maps (9 items)
+[/code][url=https://iksaandry.github.io/iks/assets/images/traders/Jean_La_Fortune.png]
+
+[img]https://iksaandry.github.io/iks/assets/images/traders/Jean_La_Fortune.png[/img][/url]
+Jean La Fortune [i](High Mountain)[/i] - New World (Total: 70 items)
+
+[code]-  Legendary Items for Town Hall (30 Items) & Trade Union (40 Items)[/code][url=https://iksaandry.github.io/iks/assets/images/traders/Old_Nate.png]
+
+[img]https://iksaandry.github.io/iks/assets/images/traders/Old_Nate.png[/img][/url]
+Old Nate [i](Salmagundi)[/i] - Cape Trelawney (Total: 76 items)
+
+[code]- Airships (5 items)
+- Salvager (33 items) 
+- All Treasure Maps (38 items)
+[/code][url=https://iksaandry.github.io/iks/assets/images/traders/emperor_ketema.png]
+
+[img]https://iksaandry.github.io/iks/assets/images/traders/emperor_ketema.png[/img][/url]
+Emperor Ketema [i](Taborime)[/i] - Enbesa (Total: 81 items [i]Land of Lions[/i])
+
+[code]- Harbourmaster's Office (7 items *Land of Lions) 
+- Trade Union (38 items *Land of Lions)
+- Town Hall (26 Items *Land of Lions) 
+- Enbesa Treasure Maps (10 items *Land of Lions)
+[/code][url=https://iksaandry.github.io/iks/assets/images/traders/Qumaq_.png]
+
+[img]https://iksaandry.github.io/iks/assets/images/traders/Qumaq_.png[/img][/url]
+Qumaq [i](Tunnganarniq)[/i] - Arctic (Total: 61 items)
+
+[code]- Airships (5 items)
+- Arctic Lodge (47 items)
+- Arctic Treasure Maps (9 items)
+[/code]
+
+Huge thanks to @Veraatversus and the team at [url=https://github.com/Miraak7000/AssetViewer]AssetViewer[/url] for providing the tool to make this mod possible.
